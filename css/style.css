@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+  border-style: solid;
+  text-align: center 
+}
+
+.jumbotron {
+  background-color:   #483D8B 
+  color: white;
+}
+
+
+
+
+  button {
+  
+  background: grey;
+  color: white;
+  border: solid 1px #fff;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1.4em;
+  padding: 10px 10px;
+  margin: 5px;
+  outline: none;
+}
+
+#item {
+  
+  margin: 15px auto;
+  padding: 0;
+  max-width: 900px;
+}
+
+#gifs-appear-here {
+  float: left;
+  margin: 15px auto;
+  padding: 0;
+  max-width: 300px;
+}
